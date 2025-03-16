@@ -1,2 +1,4 @@
-# mariana_project
-Mariana's Project
+# Mariana's Project
+
+## Ways of working
+TODO
