@@ -1,0 +1,3 @@
+rootProject.name = 'mariana_project'
+
+include 'java-service'
